@@ -1,0 +1,11 @@
+/**
+   author: william   email:362661044@qq.com
+   create_at:2024/2/18
+**/
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid black;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+}
